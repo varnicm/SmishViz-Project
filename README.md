@@ -93,10 +93,10 @@ We use the [**SmishTank**]dataset (publicly available), which includes labeled s
 
 Please cite our paper if you use any part of this analysis:
     <pre>
-@inproceedings{Sanjari2025SmishViz,
-  author    = {Seyed Mohammad Sanjari et al.},
-  title     = {SmishViz: Graph-based Visualization of Ongoing Smishing Threats},
-  booktitle = {Proc. 15th ACM CODASPY},
+  @inproceedings{Sanjari2025SmishViz,
+  author = {Sanjari, Seyed Mohammad and Shibli, Ashfak Md and Mia, Maraz and Gupta, Maanak and Pritom, Mir Mehedi Ahsan},
+  title = {SmishViz: Towards A Graph-based Visualization System for Monitoring and Characterizing Ongoing Smishing Threats},
+  booktitle = {Proceedings of the Fifteenth ACM Conference on Data and Application Security and Privacy},
   pages     = {257--268},
   year      = {2025},
   doi       = {10.1145/3714393.3726499}
