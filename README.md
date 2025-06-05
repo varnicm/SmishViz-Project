@@ -56,7 +56,7 @@ Edges illustrate linkage across the tiers: each message is connected to a sub-cl
 
 This chart shows the distribution of high-frequency keywords within a specific cluster of smishing messages. 
 
-![Figure 3](./figures/topic_word-3.png.png)
+![Figure 3](./figures/topic_word-3.png)
 
 
 
