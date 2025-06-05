@@ -65,7 +65,7 @@ This chart shows the distribution of high-frequency keywords within a specific c
 1. Clone this repository:
     ```bash
     git clone https://github.com/varnicm/SmishViz-Project.git
-    cd smishviz-paper
+    cd smishviz-project
     ```
 
 2. (Optional) Set up a virtual environment:
