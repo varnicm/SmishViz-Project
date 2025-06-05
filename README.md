@@ -92,7 +92,7 @@ We use the [**SmishTank**]dataset (publicly available), which includes labeled s
 ## Citation
 
 Please cite our paper if you use any part of this analysis:
-
+    ```
 @inproceedings{Sanjari2025SmishViz,
   author    = {Seyed Mohammad Sanjari et al.},
   title     = {SmishViz: Graph-based Visualization of Ongoing Smishing Threats},
@@ -101,3 +101,4 @@ Please cite our paper if you use any part of this analysis:
   year      = {2025},
   doi       = {10.1145/3714393.3726499}
 }
+    ```
